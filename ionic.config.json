@@ -1,8 +1,8 @@
 {
   "name": "splashDemo",
-  "app_id": "c3fd0115",
-  "type": "ionic-angular",
   "integrations": {
     "cordova": {}
-  }
+  },
+  "type": "ionic-angular",
+  "id": "c3fd0115"
 }
